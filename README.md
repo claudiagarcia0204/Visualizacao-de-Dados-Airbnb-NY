@@ -11,15 +11,11 @@ Segundo informações obtidas no Wikipédia o "Airbnb sofre resistência por set
 # Dados utilizados para visualização - Nova York / EUA
 A Listagens dos dados da Airbnb na Cidade de Nova York foram obtidas a partir do site Tableau Public - Fonte: Inside Airbnb
 
-
 # Métodos utilizados na visualização
-
 Tableau Public
-
 
 # Tecnologias
 Lista com tecnologias utilizadas:
-
 Python
 Pd.numpy
 
@@ -50,7 +46,6 @@ Para melhor compreensão das informações que serão apresentadas, foi criado u
 
 
 # Descrição da visualização
-
 Com esta análise de dados, buscamos compreender algumas informações sobre o Airbnb na cidades de N.Y
 Serão levantados informações sobre:
 1. Tipo de acomodação mais destacados
@@ -61,14 +56,12 @@ Serão levantados informações sobre:
 
 
 ## Perguntas para análise
-
 1. Qual tipo de acomodação é a mais alugada?
 2. Qual é o preço médio por tipo de quarto?
 3. A pontuação da hospedagem tem influencia com o valor final da hospedagem mais cara?
 
 
 ## Possíveis conclusão
-
 1. Os tipos de acomodação destacados pelo site são:
     Apartamento/Casa inteiras (Entire home/apt)
     Quarto privado (Private room)
@@ -93,6 +86,11 @@ Nesta análise podemos observar que Manhattan detem o maior numero de anfitriõe
 Em relação ao preço, Queens detém os maiores valores para locação por dia. Sua economia se baseia na arte, no turismo e nesta região estão os aeroportos JFK e LaGuardia.
 Uma das possíveis respostas para verificação de preço médio mais elevado no Queens, além da economia mais diversificada dos cinco distritos da cidade de Nova York. O Queens é o lar do Aeroporto Internacional John F. Kennedy e do Aeroporto LaGuardia, ambos entre os mais movimentados do mundo, que pode contribuir na elevação do valor da locação.
 
-
 Staten Island é o único bairro não conectado ao sistema de metrô da cidade de Nova York. O Staten Island utiliza o serviço de balsa (Ferry) gratuito conectando o bairro a Manhattan através do porto de Nova York. Staten Island é excelente para locatários que gostam de economizar e buscam uma melhor classificação de acomodações. 
 
+## Link do Tableau
+https://public.tableau.com/app/profile/claudia.garcia6864/viz/TrabalhodeVisualizaoAirbnb/Dashboard?publish=yes
+
+Contato
+linkedin: linkedin.com/in/claudia-garcia-765b5037
+github: @claudiagarcia0204
