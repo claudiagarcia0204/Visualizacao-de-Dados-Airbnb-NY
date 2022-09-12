@@ -91,7 +91,8 @@ Staten Island é o único bairro não conectado ao sistema de metrô da cidade d
 ## Link do Tableau
 https://public.tableau.com/app/profile/claudia.garcia6864/viz/TrabalhodeVisualizaoAirbnb/Dashboard?publish=yes
 
-Contato
+
+## Contato
 linkedin: linkedin.com/in/claudia-garcia-765b5037
 
 github: @claudiagarcia0204
