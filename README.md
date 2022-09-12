@@ -85,15 +85,14 @@ Os 2 tipos de acomodação citados acima, representam cerca de 97% dos imóveis 
 2. A partir do gráfico de preço médio por tipo de quarto podemos destacar a média é de US$ 630,0. Se compararmos com o preço médio de quarto com relação ao bairro, veremos que Queens tem o preço médio mais alto por dia, porém é Manhatthan que detêm o maior número de anfitriões.  
 
 3. Segundo os dados levantados, foi possivel verificar que a pontuação média por bairro não é a questão determinante, pois a variação é pequena entre as os tipos de acomodação.
- 
 
-## Conclusão final
+## Contexto Final
 
-Nesta análise podemos observar que Manhattan detem o maior numero de anfitriões e que o tipo mais comum de acomodação é o de casa/apto completo. 
+Nesta análise podemos observar que Manhattan detem o maior numero de anfitriões e que o tipo mais comum de acomodação é o de casa/apto completo. Uma das justificativas para este número elevado de acomodações em Manhattan, pode ser por 80% das atraçoes de Nova York estarem concentrados neste bairro. 
 
-Em relação ao preço, Queens detém os maiores valores para locação por dia, porém é Manhatthan que detêm o maior número de anfitriões. Uma das justificativas para este número elevado de acomodações em Manhattan, pode ser por 90% das atraçoes de Nova York estarem concentrados neste bairro. 
+Em relação ao preço, Queens detém os maiores valores para locação por dia. Sua economia se baseia na arte, no turismo e nesta região estão os aeroportos JFK e LaGuardia.
+Uma das possíveis respostas para verificação de preço médio mais elevado no Queens, além da economia mais diversificada dos cinco distritos da cidade de Nova York. O Queens é o lar do Aeroporto Internacional John F. Kennedy e do Aeroporto LaGuardia, ambos entre os mais movimentados do mundo, que pode contribuir na elevação do valor da locação.
 
-Uma das respostas para verificação de preço médio mais elevado no Queens, pode ser questionado sobre o Queens ser o distrito mais extenso de Nova York e o que está evoluindo mais rápido. Sua economia se baseia na arte, no turismo e nesta região estão os aeroportos JFK e LaGuardia, que pode contribuir na elevação do valor da locação.
 
-Staten Island é o único bairro não conectado ao sistema de metrô da cidade de Nova York. O Staten Island utiliza o serviço de balsa (Ferry) gratuito conectando o bairro a Manhattan através do porto de Nova York. Staten Island é excelente para locatários que gostam de economizar e buscam uma melhor classificação de acomodações.
+Staten Island é o único bairro não conectado ao sistema de metrô da cidade de Nova York. O Staten Island utiliza o serviço de balsa (Ferry) gratuito conectando o bairro a Manhattan através do porto de Nova York. Staten Island é excelente para locatários que gostam de economizar e buscam uma melhor classificação de acomodações. 
 
